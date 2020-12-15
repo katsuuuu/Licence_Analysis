@@ -1,4 +1,4 @@
-# licence_analysis
+# document_analysis
 
 cleans up ant txt document and compares the document to a given wordlist.
 10k wordlist = average 8 years old
